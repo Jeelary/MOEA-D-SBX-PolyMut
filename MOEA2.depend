@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1655559700 source:c:\users\jeela\documents\123\moea2\main.cpp
+	<iostream>
+	<time.h>
+	<math.h>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<random>
+
